@@ -29,7 +29,7 @@ export const Hero = () => {
           <div className="lg:grid lg:grid-cols-12 lg:gap-8">
             <div className="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
               <h1 className="text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white sm:text-5xl md:text-6xl">
-                <span className="block">Gestão Inteligentes</span>
+                <span className="block">Gestão Inteligentesssssss</span>
                 <span className="block text-blue-600">para sua Clínica</span>
               </h1>
               <p className="mt-3 text-base text-gray-500 dark:text-gray-400 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
